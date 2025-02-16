@@ -12,7 +12,7 @@ Before you begin, make sure you have the following installed on your system:
 
 ## Installation  
 
-clone the directory to your system 
-run the command npm install 
-then finally node index.js
-in the link localhost:3000 the website will be there.
+- clone the directory to your system 
+- run the command npm install 
+- then finally node index.js
+- in the link localhost:3000 the website will be there.
